@@ -1,0 +1,7 @@
+
+Path at terminal when executing this file/home/iademoglu/Desktop/CS307-201901-HW6
+py.py
+This file full path (following symlinks)/home/iademoglu/Desktop/CS307-201901-HW6/py.py
+This file directory and name/home/iademoglu/Desktop/CS307-201901-HW6 --> py.py
+This file directory only/home/iademoglu/Desktop/CS307-201901-HW6
+Generated:cipher.txt
